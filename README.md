@@ -9,7 +9,7 @@ learn ml5.js by using p5.js editer
 
 [p5.js](https://editor.p5js.org/)
 
-[ml5 예제](https://medium.com/simon-bak/ml5-js-소개-및-시작하기-f0104ee7cdf7)
+# how to run
 
 # study
 - html head에 라이브러리 추가<br>
